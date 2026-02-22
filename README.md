@@ -5,4 +5,3 @@ This demonstrates the working of:
 3. Custom Hooks
 4. TailwindCSS
 5. DOM manipulation
-
